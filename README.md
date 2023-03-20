@@ -11,7 +11,7 @@
   <h3 align="center">Gigabyte Aorus Z370 Gaming 3 + i5 8600k + Ventura</h3>
 
   <p align="center">
-    <a href="">Ventura Hackintos</a>
+    <a href="https://osxinfo.net/konu/basarili-kurulum-intel-i5-8600k-msi-b365m-pro-vh-macos-monterey.24933/">Thanks To</a>
     <br />
     <br />
   </p>
